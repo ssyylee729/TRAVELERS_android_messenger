@@ -95,7 +95,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void createUserName() {
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
-        builder.setTitle("채팅방에 사용할 이름을 입력하세요");
+        builder.setTitle("채팅방에 사용할 닉네임을 입력하세요! :D");
 
         final EditText builder_input = new EditText(this);
 
